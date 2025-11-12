@@ -24,7 +24,7 @@ project/
 ├── page4.html          # Entertainment
 ├── page5.html          # Accommodation
 ├── page6.html          # Contact
-├── /mystyles.css       # Stylesheet
+├── /css                # Stylesheet css
 └── /images             # Images and favicon
 ```
 
