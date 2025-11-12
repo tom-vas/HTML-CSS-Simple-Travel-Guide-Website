@@ -19,12 +19,12 @@ The website serves as a **travel guide** for Athens and includes:
 project/
 │
 ├── index.html          # Main homepage
-├── mystyles.css        # Stylesheet
 ├── page2.html          # Attractions
 ├── page3.html          # History
 ├── page4.html          # Entertainment
 ├── page5.html          # Accommodation
 ├── page6.html          # Contact
+├── /mystyles.css       # Stylesheet
 └── /images             # Images and favicon
 ```
 
